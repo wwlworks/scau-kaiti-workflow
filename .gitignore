@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 不随仓库发布的第三方全文
+_原始文本/
+附录_解剖备忘录/
+_参考/
+案例精读/*.txt
+_体例依据/*.docx
+_体例依据/*.pdf
