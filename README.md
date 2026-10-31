@@ -1,5 +1,8 @@
 # scau-kaiti-workflow
 
+<img width="1254" height="1254" alt="图片" src="https://github.com/user-attachments/assets/18a7682d-0f58-43e5-ab00-ac152df1f209" />
+
+
 > 把中文社科硕士论文**开题报告**从"意会"变成可操作的**论证工具箱**。
 > 38 件结构零件 · 12 道工序 · 15 张接口表 · 一套可测的行文刻度。已对齐华南农业大学开题报告五大块体例。
 >
