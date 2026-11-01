@@ -338,11 +338,40 @@ flowchart TB
 
 ---
 
-## 致谢
+## 致谢与引用
+
+### 支撑这个仓库的四篇文献
+
+| 文献 | 用在哪 |
+|---|---|
+| Agee, J. (2009). Developing qualitative research questions: a reflective process. *International Journal of Qualitative Studies in Education*, 22(4), 431–447. DOI: [10.1080/09518390902736512](https://doi.org/10.1080/09518390902736512) | `05` 表 11b 问题措辞六项体检 |
+| Cheng, H. (2024). Taking grandparents to school: how school-community-family collaboration empowers intergenerational learning in China. *Humanities and Social Sciences Communications*, 11:1163. DOI: [10.1057/s41599-024-03750-7](https://doi.org/10.1057/s41599-024-03750-7) | `16` §九 从困惑到问题的六轮回测 |
+| Keshav, S. (2007). How to Read a Paper. *ACM SIGCOMM Computer Communication Review*, 37(3), 83–84. | `12` §8.2 三档工时、§9.0 找文献六步 |
+| 张惠苓、李翠荣．怎样撰写论文摘要［J］．延边大学学报（社会科学版），2001，34(1)：110–112． | `12` §9.0.1 摘要快筛 |
+
+> 学位论文样本（三篇解剖 + 一篇行文样本）与三篇实测文献（一份中文期刊、一份中文学位论文、一份英文期刊）**为匿名或未公开材料**，不列引用信息，见下方「未收录的材料」。
+
+### 其他
 
 - 三份样本论文的作者（匿名）——没有它们就没有这套解剖。
 - 华南农业大学开题报告体例（`_体例依据/`）。
 - 七个外部资源，见上表。
+
+### 引用本仓库
+
+```
+wwlworks. scau-kaiti-workflow: 中文社科硕士论文开题报告论证工具箱.
+GitHub, 2026. https://github.com/wwlworks/scau-kaiti-workflow
+```
+
+```bibtex
+@misc{scau_kaiti_workflow,
+  title  = {scau-kaiti-workflow: 中文社科硕士论文开题报告论证工具箱},
+  author = {wwlworks},
+  year   = {2026},
+  url    = {https://github.com/wwlworks/scau-kaiti-workflow}
+}
+```
 
 ## 贡献
 
